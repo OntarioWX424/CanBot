@@ -1,13 +1,21 @@
+```json
 {
   "name": "canbot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Canadian weather alert monitoring system",
+  "main": "server/index.js",
   "scripts": {
+    "start": "node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "weather",
+    "canada",
+    "alerts",
+    "eccc",
+    "canbot"
+  ],
+  "author": "OntarioWX424",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
@@ -23,3 +31,4 @@
     "xml2js": "^0.6.2"
   }
 }
+```
