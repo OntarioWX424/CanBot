@@ -1,3 +1,4 @@
+```javascript
 const express = require("express");
 const http = require("http");
 const path = require("path");
@@ -8,7 +9,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server);
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 const PUBLIC_DIR = path.join(__dirname, "..", "public");
 
 const ECCC_URL =
@@ -805,18 +806,6 @@ app.get(
     }
 );
 
-app.get(
-    "/settings.html",
-    function(req, res) {
-        res.sendFile(
-            path.join(
-                PUBLIC_DIR,
-                "settings.html"
-            )
-        );
-    }
-);
-
 /* =========================================================
    AUTOMATIC EXPIRATION
 ========================================================= */
@@ -845,6 +834,7 @@ setInterval(
 
 server.listen(
     PORT,
+    "0.0.0.0",
     async function() {
         console.log("");
         console.log(
@@ -875,3 +865,4 @@ server.listen(
         await updateAlerts();
     }
 );
+```
