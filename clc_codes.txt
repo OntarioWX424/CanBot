@@ -1,0 +1,1334 @@
+Nova Scotia:
+011100	Kings County
+011200	Annapolis County
+011300	Digby County
+011400	Lunenburg County
+011500	Queens County
+011600	Shelburne County
+011700	Yarmouth County
+012100	Cumberland County - Minas Shore
+012200	Cumberland County North and Cobequid Pass
+012300	Colchester County - Cobequid Bay
+012400	Colchester County North
+012500	Hants County
+012600	Colchester County - Truro and south
+012700	Halifax Metro and Halifax County West
+012800	Halifax County - east of Porters Lake
+013100	Pictou County
+013200	Guysborough County
+013300	Antigonish County
+014100	Richmond County
+014200	Inverness County - south of Mabou
+014300	Inverness County - Mabou and north
+014400	Victoria County
+014500	Sydney Metro and Cape Breton County
+
+New Brunswick:
+015100	Fredericton and southern York County
+015200	Oromocto and Sunbury County
+015300	Grand Lake and Queens County
+015400	Sussex/Kennebecasis Valley and Kings County
+015500	Saint John and County
+015600	St. Stephen and northern Charlotte County
+015700	Grand Manan and coastal Charlotte County
+016100	Woodstock and Carleton County
+016200	Stanley-Doaktown-Blackville Area
+016300	Kent County
+016400	Moncton and southeast New Brunswick
+016500	Kouchibouguac National Park
+016600	Fundy National Park
+017100	Edmundston and Madawaska County
+017210	Western half of Restigouche County
+017220	Campbellton and eastern half of Restigouche County
+017300	Grand Falls and Victoria County
+017400	Mount Carleton-Renous Highway
+017500	Bathurst and Chaleur Region
+017600	Miramichi and Area
+017700	Acadian Peninsula
+
+Prince Edward Island:
+018100	Kings County
+018200	Prince County
+018300	Queens County
+
+Newfoundland and Labrador:
+021100	Avalon Peninsula North
+021200	Avalon Peninsula Southeast
+021300	St. John's and vicinity
+021400	Avalon Peninsula Southwest
+022100	Burin Peninsula
+022200	Connaigre
+022300	Burgeo to Ramea
+022400	Channel-Port aux Basques and vicinity
+023100	Corner Brook and vicinity
+023200	Deer Lake - Humber Valley
+023300	Gros Morne
+023400	Bay St. George
+024100	Buchans and the Interior
+024200	Grand Falls-Windsor and vicinity
+025100	Bay of Exploits
+025200	Bonavista North
+025300	Bonavista Peninsula
+025400	Clarenville and vicinity
+025500	Gander and vicinity
+025600	Green Bay - White Bay
+025700	Terra Nova
+026100	Northern Peninsula East
+026200	Parson's Pond - Hawke's Bay
+026300	Port Saunders and the Straits
+027100	Red Bay to L'Anse-au-Clair
+027200	Norman Bay to Lodge Bay
+027300	Cartwright to Black Tickle
+027400	Rigolet and vicinity
+027500	Postville - Makkovik
+027600	Hopedale and vicinity
+027700	Nain and vicinity
+028100	Upper Lake Melville
+028200	Eagle River
+028300	Churchill Valley
+029100	Churchill Falls and vicinity
+029200	Labrador City and Wabush
+
+Quebec:
+031100	Gatineau
+031200	Waskaganish
+031310	Joutel - Matagami area
+031320	Miquelon - Desmaraisville area
+031410	La Sarre area
+031420	Amos area
+031430	Lebel-sur-Quévillon area
+031440	Senneterre area
+031450	Rouyn area
+031460	Malartic area
+031470	Val d'Or - Louvicourt area
+031510	Ville-Marie area
+031520	Témiscaming area
+031610	Dorval Lodge area
+031620	Le Domaine area
+031710	Rapides-des-Joachims area
+031720	Fort William - Shawville area
+031810	Mont-Laurier area
+031820	La Minerve - Rouge River area
+031910	Low - Wakefield area
+031920	Maniwaki - Gracefield area
+031930	Papineauville - Chénéville area
+031940	Papineau-Labelle Reserve area
+031950	Lièvre River area
+032110	Saint-Michel-des-Saints area
+032120	Saint-Donat - Parc du Mont-Tremblant area
+032210	Mont-Tremblant - Sainte-Agathe area
+032220	Sainte-Adèle - Saint-Sauveur area
+032310	Saint-Jérôme area
+032320	Lachute area
+032330	Saint-Eustache area
+032410	Longueuil - Varennes area
+032420	Laval area
+032430	Montréal Island area
+032440	Châteauguay - La Prairie area
+032510	Soulanges area
+032520	Vaudreuil area
+032530	Saint-Rémi area
+032540	Valleyfield - Beauharnois area
+032550	Hemmingford area
+032560	Huntingdon area
+032610	Berthierville - Saint-Gabriel area
+032620	Rawdon - Joliette area
+032630	Mascouche area
+032710	Louiseville area
+032720	Matawin - Mauricie National Park area
+032730	Lac-aux-Sables area
+032740	Shawinigan area
+032750	Sainte-Anne-de-la-Pérade area
+032760	Trois-Rivières area
+032811	Portneuf area
+032812	Valcartier - Stoneham area
+032813	Québec area
+032814	Côte-de-Beaupré - L'Île d'Orléans area
+032821	Bellechasse area
+032822	Lévis area
+032823	Saint-Lambert area
+032824	Lotbinière area
+033100	James-Bay and La-Grande-Rivière
+033200	LG-Quatre - Laforge and Fontanges
+033300	Schefferville
+033400	Fermont
+034100	Chibougamau
+034210	Gouin Reservoir area
+034220	Parent area
+034310	Ashuapmushuan Wildlife Reserve area
+034320	Normandin - Péribonka area
+034330	Alma - Desbiens area
+034340	Saint-Félicien - Roberval area
+034410	Lake Bouchette area
+034420	La Tuque area
+034510	Manic-5 area
+034520	Manic-3 area
+034530	Chutes-des-Passes - Pipmuacan Reservoir area
+034540	Labrieville area
+034610	Forestville area
+034620	Les Escoumins area
+034710	Falardeau - Mont-Valin area
+034720	Sainte-Rose-du-Nord area
+034730	Ville de Saguenay area
+034740	Rivière-Éternité - Petit-Saguenay area
+034750	Tadoussac - Baie-Sainte-Catherine area
+034810	La Malbaie area
+034820	Baie-Saint-Paul area
+034910	Apica Mountain area
+034920	Grands-Jardins Park area
+034930	l'Étape area
+035110	Mont-Joli area
+035120	Le Bic - Rimouski area
+035130	Rimouski Wildlife Reserve area
+035200	Matane
+035310	Amqui area
+035320	Matapédia area
+035410	Grande-Vallée area
+035420	Sainte-Anne-des-Monts area
+035510	Murdochville area
+035520	Mont-Albert area
+035530	Grande-Rivière - Cascapédia area
+035610	New-Richmond - Bonaventure area
+035620	Restigouche - Carleton area
+035710	Chandler area
+035720	New Carlisle - Port-Daniel area
+035810	Parc National Forillon - Gaspé area
+035820	Percé area
+036100	Baie-Comeau
+036210	Baie-Trinité area
+036220	Sept-Îles - Port-Cartier area
+036300	Minganie
+036400	Natashquan
+036500	Chevery
+036600	Blanc-Sablon
+036700	Anticosti
+036800	Îles-de-la-Madeleine
+037110	Sorel - Yamaska area
+037120	Saint-Hyacinthe - Acton Vale area
+037130	Verchères - Beloeil area
+037140	Saint-Jean - Marieville area
+037150	Lacolle area
+037210	Bécancour - Villeroy area
+037220	Victoriaville area
+037230	Nicolet area
+037240	Drummondville area
+037311	Granby - Waterloo area
+037312	Brome-Missisquoi area
+037321	Richmond area
+037322	Weedon area
+037323	Thetford Mines area
+037331	Mont-Orford - Lake Memphrémagog area
+037332	Sherbrooke area
+037333	Coaticook area
+037334	Lac-Mégantic area
+037335	Cookshire area
+037410	Lac-Etchemin area
+037420	Sainte-Marie-de-Beauce area
+037430	Saint-Georges-de-Beauce area
+037510	Montmagny - Saint-Jean-Port-Joli area
+037520	Saint-Fabien - Saint-Pamphile area
+037610	Trois-Pistoles area
+037620	Pohénégamook area
+037630	Kamouraska area
+037640	Rivière-du-Loup area
+037700	Témiscouata
+038100	Ivujivik
+038200	Akulivik
+038300	Puvirnituq
+038400	Inukjuak
+038500	Umiujaq
+038600	Kuujjuarapik
+039100	Salluit - Raglan Lake
+039200	Kangiqsujuaq
+039300	Quaqtaq
+039400	Kangirsuk
+039500	Aupaluk
+039600	Tasiujaq
+039700	Kuujjuaq
+039800	Kangiqsualujjuaq
+
+Ontario:
+041100	Simcoe - Delhi - Norfolk
+041200	Dunnville - Caledonia - Haldimand
+041310	Watford - Pinery Park - Eastern Lambton County
+041320	Sarnia - Petrolia - Western Lambton County
+041410	Chatham-Kent - Rondeau Park
+041420	Windsor - Leamington - Essex County
+041510	London - Parkhill - Eastern Middlesex County
+041520	Strathroy - Komoka - Western Middlesex County
+041610	St. Thomas - Aylmer - Eastern Elgin County
+041620	Rodney - Shedden - Western Elgin County
+041710	Woodstock - Tillsonburg - Oxford County
+041720	Brantford - County of Brant
+042100	Attawapiskat
+042200	Fort Severn
+042300	Peawanuck
+042410	Sachigo Lake - Bearskin Lake
+042420	Big Trout Lake - Kasabonika
+042510	Sandy Lake - Weagamow Lake - Deer Lake
+042520	Pikangikum - Poplar Hill - MacDowell
+042610	Summer Beaver - Wunnummin Lake - Kingfisher Lake
+042620	Pickle Lake - Cat Lake
+042710	Webequie
+042720	Fort Hope - Lansdowne House - Ogoki
+043100	City of Toronto
+043210	Uxbridge - Beaverton - Northern Durham Region
+043220	Newmarket - Georgina - Northern York Region
+043230	Pickering - Oshawa - Southern Durham Region
+043240	Vaughan - Richmond Hill - Markham
+043310	Belleville - Quinte West - Eastern Northumberland County
+043320	Cobourg - Colborne - Western Northumberland County
+043410	Tamworth - Sydenham - South Frontenac
+043420	Stirling - Tweed - Madoc
+043510	Kingston - Odessa - Frontenac Islands
+043520	Napanee - Consecon
+043530	Picton - Sandbanks Park
+043610	Merrickville-Wolford - Kemptville
+043620	Westport - Charleston Lake
+043630	Brockville - Prescott
+043640	Gananoque - Mallorytown
+043710	Maxville - Alexandria
+043720	Cornwall - Lancaster
+043730	Winchester - Newington
+043740	Morrisburg - Long Sault
+044110	Midland - Coldwater - Orr Lake
+044120	Orillia - Lagoon City - Washago
+044130	Barrie - Collingwood - Hillsdale
+044210	South River - Burk's Falls
+044220	Bayfield Inlet - Dunchurch
+044310	Deep River - Whitney - Eastern Algonquin Park
+044320	Western Algonquin Park - Lake of Two Rivers
+044410	Huntsville - Baysville
+044420	Town of Parry Sound - Rosseau - Killbear Park
+044430	Port Carling - Port Severn
+044440	Bracebridge - Gravenhurst
+044510	Oxtongue Lake - Fort Irwin - Northern Haliburton County
+044520	Haliburton - Minden - Southern Haliburton County
+044610	Bancroft - Hastings Highlands - Denbigh
+044620	Kaladar - Bannockburn - Bon Echo Park
+044710	Fenelon Falls - Balsam Lake Park - Northern Kawartha Lakes
+044720	Apsley - Woodview - Northern Peterborough County
+044730	Lindsay - Southern Kawartha Lakes
+044740	Peterborough City - Lakefield - Southern Peterborough County
+045100	Prescott and Russell
+045210	Petawawa - Pembroke - Cobden
+045220	Barry's Bay - Killaloe
+045230	Renfrew - Arnprior - Calabogie
+045310	Smiths Falls - Perth - Eastern Lanark County
+045320	Plevna - Sharbot Lake - Western Lanark County
+045410	Ottawa North - Kanata - Orléans
+045420	Ottawa South - Richmond - Metcalfe
+046100	City of Hamilton
+046210	Bruce Peninsula - Sauble Beach - Tobermory
+046220	Owen Sound - Blue Mountains - Northern Grey County
+046230	Saugeen Shores - Kincardine - Southern Bruce County
+046240	Hanover - Dundalk - Southern Grey County
+046310	Wingham - Blyth - Northern Huron County
+046320	Listowel - Milverton - Northern Perth County
+046330	Goderich - Bluewater - Southern Huron County
+046340	Stratford - Mitchell - Southern Perth County
+046410	Mount Forest - Arthur - Northern Wellington County
+046420	Guelph - Erin - Southern Wellington County
+046430	Kitchener - Cambridge - Region of Waterloo
+046510	Innisfil - New Tecumseth - Angus
+046520	Shelburne - Mansfield - Northern Dufferin County
+046530	Orangeville - Grand Valley - Southern Dufferin County
+046610	Caledon
+046620	Mississauga - Brampton
+046630	Halton Hills - Milton
+046640	Burlington - Oakville
+046710	St. Catharines - Grimsby - Northern Niagara Region
+046720	Niagara Falls - Welland - Southern Niagara Region
+047110	Red Lake - Woodland Caribou Park
+047120	Ear Falls - Perrault Falls - Western Lac Seul
+047210	Savant Lake - Sturgeon Lake
+047220	Sioux Lookout - Eastern Lac Seul
+047310	Kenora - Grassy Narrows - Whitedog
+047320	Sioux Narrows - Nestor Falls - Morson
+047410	Dryden - Vermilion Bay
+047420	Ignace - English River
+047510	Fort Frances - Emo - Rainy River
+047520	Seine River Village - Mine Centre
+048100	City of Thunder Bay
+048210	Armstrong - Auden - Wabakimi Park
+048220	Beardmore - Jellicoe - Macdiarmid
+048230	Gull Bay - Black Sturgeon Lake
+048310	Nakina - Aroland - Pagwa
+048320	Geraldton - Longlac - Caramat
+048330	Manitouwadge - Hornepayne
+048410	Upsala - Raith
+048420	Atikokan - Shebandowan - Quetico Park
+048510	Cloud Bay - Dorion
+048520	Kakabeka Falls - Whitefish Lake - Arrow Lake
+048610	Nipigon - Rossport
+048620	Marathon - Schreiber
+048710	White River - Dubreuilville
+048720	Wawa - Pukaskwa Park
+048810	Agawa - Lake Superior Park
+048820	Searchmont - Montreal River Harbour - Batchawana Bay
+048830	Sault Ste. Marie - St. Joseph Island
+049100	Greater Sudbury and vicinity
+049200	Elliot Lake - Ranger Lake
+049310	Fort Albany
+049320	Moosonee
+049410	Fraserdale - Pledger Lake
+049420	Kapuskasing - Hearst - Smooth Rock Falls
+049510	Little Abitibi - Kesagami Lake
+049520	Timmins - Cochrane - Iroquois Falls
+049610	Chapleau - Missinaibi Lake
+049620	Gogama - Foleyet
+049710	Kirkland Lake - Englehart
+049720	Temiskaming Shores - Temagami
+049810	West Nipissing - French River
+049820	North Bay - Powassan - Mattawa
+049910	Blind River - Thessalon
+049920	Espanola - Killarney
+049930	Manitoulin Island
+
+Manitoba:
+051110	R.M. of Wallace-Woodworth incl. Virden Elkhorn and Kenton
+051130	Riverdale Mun. incl. Rivers and Wheatland
+051140	R.M. of Whitehead incl. Alexander and Beresford
+051150	R.M. of Sifton incl. Oak Lake and Deleau
+051160	R.M. of Pipestone incl. Oak Lake Res.
+051170	Mun. of Souris-Glenwood
+051211	R.M. of Elton incl. Forrest
+051212	R.M. of Cornwallis west of Shilo incl. Chater
+051213	Mun. of Oakland-Wawanesa incl. Carroll
+051220	City of Brandon
+051231	Mun. of North Cypress-Langford incl. Neepawa and Carberry
+051232	Mun. of Glenboro-South Cypress incl. Treesbank
+051241	Mun. of North Norfolk incl. MacGregor Sidney and Austin
+051242	Mun. of Norfolk Treherne
+051243	R.M. of Victoria incl. Holland and Cypress River
+051310	Mun. of Grassland incl. Hartney and Minto
+051320	Mun. of Two Borders incl. Melita Coulter and Tilston
+051331	Mun. of Brenda-Waskada incl. Medora and Goodlands
+051332	Mun. of Deloraine-Winchester
+051340	Mun. of Boissevain-Morton incl. Turtle Mtn Prov. Park
+051412	Mun. of Killarney-Turtle Mountain
+051422	R.M. of Argyle incl. Baldur Glenora and Greenway
+051431	Cartwright-Roblin Mun. incl. Mather
+051432	Mun. of Louise incl. Pilot Mound and Crystal City
+051441	Mun. of Lorne incl. Notre Dame and Swan Lake
+051442	Mun. of Pembina incl. Manitou La Rivière and Snowflake
+051450	R.M. of Prairie Lakes incl. Margaret Ninette and Belmont
+052100	City of Winnipeg
+052212	R.M. of Coldwell incl. Lundar and Clarkleigh
+052223	R.M. of Gimli incl. Winnipeg Beach and Arnes
+052231	R.M. of St. Laurent incl. Oak Point
+052232	R.M. of Woodlands incl. Warren and Lake Francis
+052240	R.M. of Rockwood incl. Teulon Stonewall and Stony Mountain
+052251	R.M. of Rosser incl. Meadows
+052252	R.M. of West St. Paul incl. Middlechurch and Rivercrest
+052260	R.M. of Armstrong incl. Chatfield Inwood and Narcisse
+052270	R.M. of St. Andrews incl. Selkirk Lockport and Ponemah
+052310	R.M. of Portage la Prairie incl. St. Ambroise
+052321	R.M. of St. François Xavier
+052322	R.M. of Cartier incl. Elie St. Eustache and Springstein
+052323	R.M. of Headingley
+052331	R.M. of Grey incl. St. Claude Elm Creek and Fannystelle
+052332	R.M. of Dufferin incl. Carman Roseisle and Homewood
+052340	R.M. of Macdonald incl. Brunkild Starbuck and La Salle
+052410	R.M. of St. Clements incl. Grand Beach Brokenhead and Libau
+052422	R.M. of Brokenhead incl. Beausejour and Garson
+052431	R.M. of Springfield incl. Anola and Birds Hill Prov. Park
+052433	R.M. of East St. Paul incl. Birds Hill
+052510	R.M. of Morris incl. Rosenort and Aubigny
+052520	R.M. of Thompson incl. Miami Rosebank and Deerwood
+052530	R.M. of Roland incl. Jordan and Myrtle
+052540	R.M. of Montcalm incl. St. Jean Baptiste
+052550	Mun. of Rhineland incl. Altona Plum Coulee and Gretna
+052560	R.M. of Stanley incl. Winkler and Morden
+052611	R.M. of Ritchot incl. St. Adolphe and Ste. Agathe
+052612	R.M. of Tache incl. Lorette Ste-Geneviève and Landmark
+052620	R.M. of De Salaberry incl. St-Pierre-Jolys and St. Malo
+052630	R.M. of Hanover incl. Steinbach Niverville and Grunthal
+052641	R.M. of Ste. Anne incl. Richer
+052642	R.M. of La Broquerie incl. Marchand
+052651	Mun. of Emerson-Franklin incl. Roseau River
+052652	R.M. of Stuartburn incl. Zhoda Vita and Sundown
+053110	Manigotagan Black River Res. and Hollow Water Res.
+053120	Bissett
+053130	Nopiming Prov. Park
+053140	R.M. of Alexander incl. Powerview-Pine Falls
+053150	R.M. of Victoria Beach
+053211	R.M. of Lac Du Bonnet
+053221	L.G. of Pinawa incl. Seven Sisters Falls
+053222	R.M. of Whitemouth incl. Elma
+053231	Pointe du Bois
+053232	Falcon Lake and West Hawk Lake
+053243	Shoal Lake Reserves
+053250	R.M. of Reynolds incl. Ste. Rita Hadashville and Rennie
+053310	Buffalo Point Res. and Northwest Angle Prov. Forest
+053320	R.M. of Piney incl. Sandilands and Sprague
+054110	Grand Rapids and Easterville
+054120	Waterhen Meadow Portage and Skownan
+054210	R.M. of Grahamdale incl. Gypsumville Moosehorn and Camper
+054221	Jackhead Res.
+054230	R.M. of West Interlake incl. Eriksdale and Ashern
+054242	Mun. of Bifrost-Riverton incl. Arborg Hnausa and Hecla
+054243	Moose Creek Prov. Forest Pine Dock and Matheson Island
+054250	R.M. of Fisher incl. Poplarfield
+054260	Peguis Res. and Fisher River Res.
+055110	Mun. of Roblin incl. Makaroff Shortdale and Bield
+055121	R.M. of Dauphin incl. Sifton and Valley River
+055122	Mun. of Ethelbert incl. Garland
+055123	Gilbert Plains Mun. incl. Ashville
+055131	Mossey River Mun. incl. Winnipegosis and Fork River
+055132	Grandview Mun. incl. Valley River Res.
+055133	R.M. of Lakeshore incl. Ochre River and Makinak
+055140	R.M. of Riding Mountain West incl. Asessippi Prov. Park
+055150	Mun. of Russell-Binscarth incl. Gambler Res.
+055160	R.M. of Lakeshore incl. Rorketon and Toutes Aides
+055210	Mun. of Harrison Park incl. Onanole Sandy Lake and Newdale
+055221	Rossburn Mun. incl. Waywayseecappo Res.
+055222	Riding Mountain Nat. Park
+055230	R.M. of Ellice-Archie incl. St-Lazare McAuley and Manson
+055241	R.M. of Yellowhead incl. Shoal Lake and Elphinstone
+055242	Prairie View Mun. incl. Birdtail Sioux Res.
+055243	Hamiota Mun. incl. McConnell and Lavinia
+055251	R.M. of Oakview incl. Oak River and Rapid City
+055252	R.M. of Minto-Odanah incl. Minnedosa and Moore Park
+055253	Mun. of Clanwilliam-Erickson
+055260	R.M. of Rosedale incl. Eden and Kelwood
+055310	R.M. of Alonsa incl. Ebb and Flow Res. and Sandy Bay Res.
+055321	Mun. of Ste. Rose incl. Laurier
+055331	Mun. of McCreary incl. Norgate
+055340	Mun. of Glenella-Lansdowne incl. Arden and Tenby
+055350	Mun. of WestLake-Gladstone incl. Plumas and Langruth
+056110	The Pas Cormorant Westray and Wanless
+056120	North and South Moose Lake incl. Moose Lake Res.
+056211	Westgate Red Deer Lake and Barrows
+056212	Porcupine Prov. Forest
+056221	R.M. of Mountain including Mafeking and Birch River
+056222	Pelican Rapids and Shoal River First Nations
+056231	Mun. of Swan Valley West incl. Benito
+056232	Mun. of Minitonas-Bowsman incl. Renwer
+056241	Duck Mountain Prov. Park and Prov. Forest
+056242	R.M. of Mountain including Cowan and Camperville
+057110	Molson Lake and Bear Lake
+057120	Cross Lake and Jenpeg
+057130	Wabowden
+057140	Hwy 6between Little Limestone Lake and Ponton
+057150	Norway House
+057200	Poplar River
+057310	Berens River
+057320	Little Grand Rapids and Atikaki Prov. Park
+057330	Bloodvein
+058100	Brochet
+058200	Tadoule Lake
+058310	Lynn Lake
+058320	Leaf Rapids
+058330	Pukatawagan
+058410	South Indian Lake and Amisk Prov. Park
+058420	Split Lake and York Landing
+058430	Thompson Thicket Portage and Pikwitonei
+058440	Nelson House
+058510	Snow Lake and Herb Lake Landing
+058520	Flin Flon Cranberry Portage and Grass River Prov. Park
+059100	Churchill
+059200	York
+059300	Gillam
+059400	Shamattawa
+059510	Oxford House and Gods Lake
+059520	Red Sucker Lake
+059530	Island Lake
+
+Saskatchewan:
+061111	R.M. of Deer Forks including Burstall and Estuary
+061112	R.M. of Happyland including Leader Prelate and Mendham
+061113	R.M. of Enterprise including Richmound
+061114	R.M. of Fox Valley including Fox Valley
+061115	R.M. of Big Stick including Golden Prairie
+061121	R.M. of Clinworth including Sceptre Lemsford and Portreeve
+061122	R.M. of Miry Creek including Abbey Lancer and Shackleton
+061123	R.M. of Pittville including Hazlet
+061131	R.M. of Piapot including Piapot
+061132	R.M. of Gull Lake including Gull Lake and Tompkins
+061133	R.M. of Carmichael including Carmichael
+061211	R.M. of Lacadena including Kyle Tyner and Sanctuary
+061212	R.M. of Victory including Beechy
+061213	R.M. of Canaan including Lucky Lake
+061221	R.M. of Riverside including Cabri Pennant and Success
+061222	R.M. of Saskatchewan Landing including Stewart Valley
+061223	R.M. of Webb including Webb and Antelope lake
+061224	R.M. of Swift Current including Swift Current and Wymark
+061225	R.M. of Lac Pelletier including Blumenhof
+061231	R.M. of Excelsior including Waldeck Rush Lake and Main Centre
+061232	R.M. of Morse including Herbert Morse Ernfold and Gouldtown
+061233	R.M. of Coulee including Neidpath and McMahon
+061234	R.M. of Lawtonia including Hodgeville
+061235	R.M. of Glen Bain including Glen Bain
+061236	R.M. of Whiska Creek including Vanguard Neville and Pambrun
+061311	R.M. of Maple Creek including Maple Creek
+061312	R.M. of Maple Creek including Cypress Hills Prov. Park
+061313	R.M. of Reno including Consul Robsart and Willow Creek
+061321	R.M. of Arlington including Dollard
+061322	R.M. of White Valley including Eastend and Ravenscrag
+061323	R.M. of Frontier including Frontier and Claydon
+061331	R.M. of Bone Creek including Simmie and Scotsguard
+061332	R.M. of Grassy Creek including Shaunavon
+061333	R.M. of Wise Creek including Cadillac and Admiral
+061341	R.M. of Lone Tree including Climax and Bracken
+061342	R.M. of Val Marie including Val Marie Orkney and Monchy
+061351	R.M. of Auvergne including Ponteix and Aneroid
+061352	R.M. of Pinto Creek including Kincaid and Hazenmore
+061353	R.M. of Glen McPherson west of Mankota
+061354	R.M. of Mankota including Mankota and Ferland
+062100	City of Regina
+062211	R.M. of Maple Bush including Riverhurst and Douglas Prov. Park
+062212	R.M. of Huron including Tugaske
+062213	R.M. of Enfield including Central Butte
+062214	R.M. of Eyebrow including Eyebrow and Brownlee
+062221	R.M. of Craik including Craik and Aylesbury
+062222	R.M. of Sarnia including Holdfast Chamberlain and Dilke
+062223	R.M. of Marquis including Tuxford Keeler and Buffalo Pound
+062224	R.M. of Dufferin including Bethune and Findlater
+062231	R.M. of Chaplin including Chaplin
+062232	R.M. of Wheatlands including Mortlach and Parkbeg
+062233	R.M. of Shamrock including Shamrock and Kelstern
+062234	R.M. of Rodgers including Coderre and Courval
+062241	R.M. of Caron including Caronport and Caron
+062242	R.M. of Moose Jaw including Pasqua and Bushell Park
+062243	R.M. of Pense including Pense Belle Plaine and Stony Beach
+062244	City of Moose Jaw
+062245	R.M. of Hillsborough including Crestwynd and Old Wives lake
+062246	R.M. of Redburn including Rouleau and Hearne
+062247	R.M. of Baildon including Briercrest
+062311	R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park
+062312	R.M. of Longlaketon including Earl Grey and Silton
+062313	R.M. of Lumsden including Lumsden Regina Beach and Craven
+062321	R.M. of Cupar including Southey Cupar and Markinch
+062322	R.M. of Lipton including Lipton and Dysart
+062323	R.M. of Tullymet including Peepeekisis Res.
+062331	R.M. of Sherwood including Grand Coulee
+062332	R.M. of Bratt's Lake including Wilcox Corinne and Estlin
+062341	R.M. of Lajord including Lajord Kronau and Riceton
+062342	R.M. of Francis including Vibank Sedley and Odessa
+062343	R.M. of Montmartre including Assiniboine Res.
+062351	R.M. of Edenwold including Balgonie and Piapot Res.
+062352	R.M. of North Qu'Appelle including Fort Qu'Appelle
+062353	R.M. of South Qu'Appelle including Qu'Appelle and Edgeley
+062361	R.M. of Abernethy including Balcarres and Abernethy
+062362	R.M. of Indian Head including Indian Head and Sintaluta
+062411	R.M. of Gravelbourg including Gravelbourg and Bateman
+062412	R.M. of Sutton including Mazenod Palmer and Vantage
+062413	R.M. of Wood River including Lafleche Woodrow and Melaval
+062414	R.M. of Stonehenge including Limerick and Congress
+062421	R.M. of Waverley including Glentworth and Fir Mountain
+062422	R.M. of Old Post including Wood Mountain and Killdeer
+062431	R.M. of Lake Johnson including Mossbank and Ardill
+062432	R.M. of Terrell including Spring Valley and Cardross
+062433	R.M. of Lake of The Rivers including Assiniboia
+062434	R.M. of Excel including Viceroy Ormiston and Verwood
+062441	R.M. of Willow Bunch including Willow Bunch and St Victor
+062442	R.M. of Poplar Valley including Rockglen and Fife Lake
+062443	R.M. of Hart Butte including Coronach
+062451	R.M. of Elmsthorpe including Avonlea and Truax
+062452	R.M. of Key West including Ogema and Kayville
+062461	R.M. of Bengough including Bengough
+062462	R.M. of The Gap including Ceylon and Hardy
+062463	R.M. of Happy Valley including Big Beaver
+062464	R.M. of Surprise Valley including Minton and Regway
+062511	R.M. of Caledonia including Milestone and Parry
+062512	R.M. of Scott including Yellow Grass Lang and Lewvan
+062513	R.M. of Norton including Pangman and Khedive
+062514	R.M. of Brokenshell including Trossachs
+062521	R.M. of Wellington including Cedoux Colfax and Tyvan
+062522	R.M. of Fillmore including Fillmore Creelman and Osage
+062523	R.M. of Weyburn including Weyburn and McTaggart
+062524	R.M. of Griffin including Griffin and Froude
+062531	R.M. of Laurier including Radville
+062532	R.M. of Lomond including Colgate and Goodwater
+062533	R.M. of Lake Alma including Lake Alma and Beaubier
+062534	R.M. of Souris Valley including Tribune and Oungre
+062541	R.M. of Cymri including Midale Macoun and Halbrite
+062542	R.M. of Benson including Benson
+062543	R.M. of Cambria including Torquay and Outram
+062544	R.M. of Estevan including Estevan and Hitchcock
+063111	R.M. of Garry including Jedburgh
+063112	R.M. of Orkney including Yorkton Springside and Ebenezer
+063113	R.M. of Stanley including Goodeve Fenwood and Duff
+063114	R.M. of Cana including Melville
+063121	R.M. of McLeod including Lemberg and Neudorf
+063122	R.M. of Grayson including Grayson Dubuc and Killaly
+063131	R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby
+063132	R.M. of Calder including Calder and Wroxton
+063133	R.M. of Saltcoats including Saltcoats and Bredenbury
+063134	R.M. of Churchbridge including Churchbridge and MacNutt
+063141	R.M. of Fertile Belt including Esterhazy Stockholm and Bangor
+063142	R.M. of Langenburg including Langenburg Yarbo and Marchwell
+063143	R.M. of Spy Hill including Spy Hill Gerald and Tantallon
+063211	R.M. of Wolseley including Wolseley and Summerberry
+063212	R.M. of Elcapo including Broadview and Cowessess Res.
+063221	R.M. of Chester including Windthorst Glenavon and Peebles
+063222	R.M. of Hazelwood south of Kipling
+063223	R.M. of Golden West including Ocean Man Res. and Handsworth
+063224	R.M. of Kingsley including Kipling
+063231	R.M. of Silverwood south of Whitewood
+063232	R.M. of Wawken including Wawota Kennedy and Kenosee Lake
+063241	R.M. of Martin including Wapella and Red Jacket
+063242	R.M. of Moosomin including Moosomin Welwyn and Fleming
+063243	R.M. of Walpole including Kelso
+063244	R.M. of Maryfield including Maryfield and Fairlight
+063251	R.M. of Willowdale including Whitewood and Ochapowace Res.
+063252	R.M. of Rocanville including Rocanville
+063311	R.M. of Tecumseh including Stoughton Forget and Heward
+063312	R.M. of Brock including Arcola and Kisbey
+063321	R.M. of Browning including Lampman
+063322	R.M. of Coalfields including Bienfait and North Portal
+063331	R.M. of Moose Creek including Alameda
+063332	R.M. of Enniskillen including Oxbow and Northgate
+063341	R.M. of Moose Mountain including Carlyle and Manor
+063342	R.M. of Antler including Redvers Antler and Wauchope
+063351	R.M. of Storthoaks including Storthoaks and Fertile
+063352	R.M. of Reciprocity including Alida
+063353	R.M. of Mount Pleasant including Carnduff
+063354	R.M. of Argyle including Gainsborough and Carievale
+064110	R.M. of Hudson Bay including Shoal Lake and Red Earth Reserves
+064120	R.M. of Hudson Bay including Hudson Bay and Reserve
+064130	R.M. of Porcupine including Porcupine Plain and Weekes
+064211	R.M. of Hazel Dell including Lintlaw and Hazel Dell
+064212	R.M. of Preeceville including Preeceville and Sturgis
+064213	R.M. of Invermay including Invermay and Rama
+064214	R.M. of Buchanan including Buchanan Amsterdam and Tadmore
+064221	R.M. of Insinger including Theodore and Sheho
+064222	R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park
+064231	R.M. of Keys including The Key Res.
+064232	R.M. of St Philips including Pelly and St Philips
+064233	R.M. of Sliding Hills including Veregin Mikado and Hamton
+064234	R.M. of Cote including Kamsack Togo and Duck Mountain Prov. Park
+064241	R.M. of Clayton including Norquay Stenen and Swan Plain
+064242	R.M. of Livingston including Arran
+065100	City of Saskatoon
+065211	R.M. of Spiritwood including Spiritwood and Leoville
+065212	R.M. of Canwood including Debden and Big River Res.
+065221	R.M. of Meeting Lake
+065222	R.M. of Leask including Leask Mistawasis Res. and Parkside
+065230	R.M. of Shellbrook including Sturgeon Lake Res.
+065240	R.M. of Duck Lake including Duck Lake and Beardy's Res.
+065251	District of Lakeland including Emma Lake and Anglin Lake
+065252	R.M. of Paddockwood including Candle Lake and Paddockwood
+065261	R.M. of Buckland including Wahpeton Res. and Spruce Home
+065262	R.M. of Garden River including Meath Park and Albertville
+065263	City of Prince Albert
+065271	R.M. of Prince Albert including Davis
+065272	R.M. of Birch Hills including Muskoday Res.
+065273	R.M. of St Louis including One Arrow Res. and Domremy
+065310	R.M. of Torch River including Choiceland and White Fox
+065321	R.M. of Nipawin including Nipawin Aylsham and Pontrilas
+065322	R.M. of Moose Range including Carrot River and Tobin Lake
+065331	R.M. of Kinistino including Kinistino and James Smith Res.
+065332	R.M. of Invergordon including Yellow Creek and Tarnopol
+065333	R.M. of Flett's Springs including Beatty Ethelton and Pathlow
+065334	R.M. of Three Lakes including Middle Lake and St Benedict
+065335	R.M. of Lake Lenore including St. Brieux
+065341	R.M. of Willow Creek including Gronlid and Fairy Glen
+065342	R.M. of Connaught including Ridgedale and New Osgoode
+065343	R.M. of Star City including Melfort and Star City
+065344	R.M. of Tisdale including Tisdale Eldersley and Sylvania
+065345	R.M. of Pleasantdale including Naicam and Pleasantdale
+065346	R.M. of Barrier Valley including Archerwill and McKague
+065351	R.M. of Arborfield including Arborfield and Zenon Park
+065352	R.M. of Bjorkdale including Greenwater Lake Prov. Park
+065411	R.M. of Redberry including Hafford and Krydor
+065412	R.M. of Blaine Lake including Blaine Lake
+065413	R.M. of Great Bend including Radisson and Borden
+065421	R.M. of Laird including Waldheim Hepburn and Laird
+065422	R.M. of Rosthern including Rosthern Hague and Carlton
+065431	R.M. of Eagle Creek including Arelee and Sonningdale
+065432	R.M. of Corman Park including Martensville Warman and Langham
+065433	R.M. of Perdue including Perdue and Kinley
+065434	R.M. of Vanscoy including Delisle Asquith and Vanscoy
+065441	R.M. of Aberdeen including Aberdeen
+065442	R.M. of Fish Creek including Alvena
+065443	R.M. of Hoodoo including Wakaw and Cudworth
+065444	R.M. of Grant including Vonda Prud'homme and Smuts
+065445	R.M. of Bayne including Bruno Peterson and Dana
+065451	R.M. of Colonsay including Colonsay and Meacham
+065452	R.M. of Viscount including Viscount and Plunkett
+065453	R.M. of Blucher including Allan Clavet Bradwell and Elstow
+065511	R.M. of Harris including Harris and Tessier
+065512	R.M. of Montrose including Donovan and Swanson
+065513	R.M. of Milden including Dinsmore Milden and Wiseton
+065514	R.M. of Fertile Valley including Conquest Macrorie and Bounty
+065515	R.M. of King George northwest of Lucky Lake
+065516	R.M. of Coteau including Birsay and Danielson Prov. Park
+065521	R.M. of Dundurn including Dundurn and Blackstrap Prov. Park
+065522	R.M. of Rudy including Outlook and Glenside
+065523	R.M. of Rosedale including Hanley
+065524	R.M. of Loreburn including Elbow Loreburn and Hawarden
+065531	R.M. of Lost River including South Allan and the Allan Hills
+065532	R.M. of Morris including Watrous Young and Zelma
+065533	R.M. of McCraney including Kenaston and Bladworth
+065534	R.M. of Wood Creek including Simpson
+065541	R.M. of Arm River including Davidson and Girvin
+065542	R.M. of Willner west of Davidson
+065543	R.M. of Big Arm including Imperial and Liberty
+065611	R.M. of Humboldt including Humboldt Carmel and Fulda
+065612	R.M. of St Peter including Muenster and Lake Lenore
+065613	R.M. of Wolverine including Burr
+065614	R.M. of Leroy including Leroy
+065621	R.M. of Spalding including Spalding
+065622	R.M. of Ponass Lake including Rose Valley Fosston and Nora
+065623	R.M. of Lakeside including Watson and Quill Lake
+065624	R.M. of Lakeview including Wadena and Clair
+065631	R.M. of Usborne including Lanigan Drake and Guernsey
+065632	R.M. of Prairie Rose including Jansen and Esk
+065633	R.M. of Wreford including Nokomis and Venn
+065634	R.M. of Mount Hope including Semans
+065635	R.M. of Last Mountain Valley including Govan and Duval
+065641	R.M. of Big Quill including Wynyard Dafoe and Kandahar
+065642	R.M. of Elfros including Elfros Leslie and Mozart
+065643	R.M. of Kutawa including Raymore Punnichy and Poorman Res.
+065644	R.M. of Emerald including Wishart and Bankend
+065645	R.M. of Touchwood including Serath and Touchwood Hills Prov. Park
+065646	R.M. of Kellross including Kelliher and Lestock
+065651	R.M. of Kelvington including Yellowquill Res.
+065652	R.M. of Sasman including Margo Kylemore and Nut Mountain
+065653	R.M. of Foam Lake including Foam Lake and Fishing Lake Res.
+065654	R.M. of Ituna Bon Accord including Ituna and Hubbard
+066110	R.M. of Meadow Lake including Waterhen Res.
+066120	R.M. of Beaver River including Pierceland and Goodsoil
+066130	Green Lake
+066140	R.M. of Loon Lake including Loon Lake and Makwa
+066150	R.M. of Big River including Big River and Chitek Lake
+066211	R.M. of Frenchman Butte including St. Walburg
+066212	R.M. of Mervin including Turtleford Mervin and Spruce Lake
+066213	R.M. of Turtle River including Edam and Vawn
+066221	R.M. of Britannia including Hillmond
+066222	R.M. of Wilton including Lashburn Marshall and Lone Rock
+066223	R.M. of Eldon including Maidstone and Waseca
+066224	R.M. of Paynton including Paynton
+066231	R.M. of Manitou Lake including Marsden
+066232	R.M. of Hillsdale including Neilburg and Baldwinton
+066233	R.M. of Senlac including Senlac
+066234	R.M. of Round Valley including Unity
+066241	R.M. of Cut Knife including Cut Knife
+066242	R.M. of Battle River including Sweet Grass Res. and Delmas
+066243	R.M. of Buffalo including Wilkie and Phippen
+066251	R.M. of Parkdale including Glaslyn and Fairholme
+066252	R.M. of Medstead including Medstead Belbutte and Birch Lake
+066253	R.M. of Meota including Meota and The Battlefords Prov. Park
+066254	R.M. of Round Hill including Rabbit Lake and Whitkow
+066260	The Battlefords
+066271	R.M. of North Battleford northwest of The Battlefords
+066272	R.M. of Douglas including Speers Richard and Alticane
+066273	R.M. of Mayfield including Maymont Denholm and Fielding
+066280	R.M. of Glenside north of Biggar
+066311	R.M. of Eye Hill including Macklin Denzil and Evesham
+066312	R.M. of Grass Lake including Salvador and Reward
+066313	R.M. of Heart's Hill including Cactus Lake
+066314	R.M. of Progress including Kerrobert and Luseland
+066321	R.M. of Tramping Lake including Scott and Revenue
+066322	R.M. of Reford including Landis and Leipzig
+066323	R.M. of Mariposa including Tramping Lake and Broadacres
+066324	R.M. of Grandview including Handel and Kelfield
+066331	R.M. of Rosemount including Cando and Traynor
+066332	R.M. of Biggar including Biggar and Springwater
+066341	R.M. of Antelope Park including Loverna and Hoosier
+066342	R.M. of Prairiedale including Major and Smiley
+066343	R.M. of Milton including Alsask and Marengo
+066351	R.M. of Oakdale including Coleville
+066352	R.M. of Winslow including Dodsland and Plenty
+066353	R.M. of Kindersley including Kindersley Brock and Flaxcombe
+066361	R.M. of Mountain View including Herschel and Stranraer
+066362	R.M. of Marriott south of Biggar
+066363	R.M. of Pleasant Valley including McGee and Fiske
+066364	R.M. of St Andrews including Rosetown and Zealandia
+066371	R.M. of Chesterfield including Eatonia and Mantario
+066372	R.M. of Newcombe including Glidden and Madison
+066381	R.M. of Monet including Elrose Wartime and Forgan
+066382	R.M. of Snipe Lake including Eston and Plato
+066400	City of Lloydminster (also included in Alberta, 075260)
+067110	Buffalo Narrows and Peter Pond Lake
+067120	Île à la Crosse and Beauval
+067210	Hwy 165between hwys 2and 914including Pinehouse Lake
+067220	Lac la Ronge Prov. Park including La Ronge
+067230	Candle Lake Prov. Park and Narrow Hills Prov. Park
+067240	Montreal Lake and Molanosa
+067250	Prince Albert Nat. Park
+067310	Hwy 135including Pelican Narrows and Sandy Bay
+067320	Seabee Mine
+067330	Hanson Lake Road east of Hwy 135including Creighton
+067340	Hanson Lake Road between Hwys 165and 135
+067350	Cumberland House
+068100	Uranium City - Camsell Portage
+068210	Fond-du-Lac
+068220	Stony Rapids and Black Lake
+068310	Cluff Lake Mine
+068320	La Loche and Clearwater River Prov. Park
+068400	Cree Lake - Key Lake
+068500	Wollaston Lake - Collins Bay
+068600	Southend - Brabant Lake - Kinoosao
+
+Alberta:
+071110	Jasper Nat. Park near Pocahontas
+071120	Jasper Nat. Park near Jasper
+071130	Jasper Nat. Park near and south of Sunwapta Falls
+071210	Yellowhead Co. near Cadomin and Robb
+071220	Clearwater Co. near Chungo Creek
+071230	Clearwater Co. near Nordegg and Big Horn Res.
+071240	Clearwater Co. near Ya-Ha-Tinda Ranch
+071310	Brazeau Co. near Cynthia and Lodgepole
+071320	Yellowhead Co. near Minnow and Wolf Lakes and Elk River
+071330	O'Chiese 203Res. and Clearwater Co. near Sunchild Cree Res.
+071340	Brazeau Co. near Brazeau Dam
+071350	Clearwater Co. near Rocky Mtn House and Crimson Lake
+071360	Clearwater Co. near Caroline and James River Bridge
+071410	Clearwater Co. near Siffleur Wilderness Area
+071420	Banff Nat. Park near Saskatchewan River Crossing
+071430	Banff Nat. Park near Lake Louise
+071440	Banff Nat. Park near Banff
+071510	M.D. of Bighorn near Ghost River Wilderness
+071520	M.D. of Bighorn near Canmore Exshaw and Ghost Lake
+071530	Kananaskis Improvement District near Kananaskis Village
+071540	Kananaskis Improvement District near Highwood House
+072111	Lacombe Co. near Eckville
+072112	Lacombe Co. near Lacombe Blackfalds and Bentley
+072113	Lacombe Co. near Clive Alix and Mirror
+072121	Red Deer Co. near Sylvan Lake and Stephansson House
+072122	Red Deer Co. near Spruce View and Red Lodge Prov. Park
+072123	Red Deer Co. near Penhold Innisfail and Bowden
+072124	Red Deer Co. near Pine Lake
+072125	Red Deer Co. near Elnora Lousana and Delburne
+072131	Co. of Stettler near Stettler Nevis and Rochon Sands
+072132	Co. of Stettler near Big Valley
+072133	Co. of Stettler near Donalda
+072134	Co. of Stettler near Botha and Gadsby
+072135	Co. of Stettler near Byemoor and Endiang
+072140	City of Red Deer
+072150	Co. of Paintearth near Halkirk and Big Knife Prov. Park
+072160	Flagstaff Co. near Forestburg and Galahad
+072170	Camrose Co. near Bashaw and Meeting Creek
+072180	Ponoka Co. near Ponoka and Maskwacis
+072210	Mountain View Co. near Sundre
+072220	Mountain View Co. near Olds and Didsbury
+072230	Mountain View Co. near Cremona and Water Valley
+072240	Mountain View Co. near Carstairs and Stirlingville
+072250	Rocky View Co. near Airdrie and Crossfield
+072260	Rocky View Co. near Bottrel and Madden
+072270	Rocky View Co. near Cochrane
+072311	Kneehill Co. near Torrington and Wimborne
+072312	Kneehill Co. near Trochu and Huxley
+072313	Kneehill Co. near Three Hills
+072321	Kneehill Co. near Acme and Linden
+072322	Kneehill Co. near Carbon
+072331	Starland Co. near Rumsey and Rowley
+072332	Starland Co. near Morrin and Munson
+072333	Starland Co. near Michichi and Delia
+072341	Wheatland Co. near Rockyford and Rosebud
+072342	Wheatland Co. near Hwys 569and 848
+072350	Town of Drumheller
+072360	Rocky View Co. near Irricana Beiseker and Kathyrn
+072370	S.A. 2near Finnegan and Little Fish Lake Prov. Park
+072400	City of Calgary
+072510	Rocky View Co. near Bragg Creek and Tsuu T'ina Res.
+072521	Foothills Co. near Priddis and Brown-Lowery Prov. Park
+072522	Foothills Co. near Diamond Valley
+072523	Foothills Co. near Longview and Eden Valley Res.
+072531	Foothills Co. near Okotoks and De Winton
+072532	Foothills Co. near High River and Aldersyde
+072533	Foothills Co. near Cayley
+072541	M.D. of Willow Creek near Nanton and Parkland
+072542	M.D. of Willow Creek near Claresholm and Stavely
+072610	Rocky View Co. near Chestermere Dalroy and Dalemead
+072620	Foothills Co. near Blackie
+072631	Wheatland Co. near Strathmore Lyalta and Carseland
+072632	Wheatland Co. near Standard and Gleichen
+072633	Siksika Res. 146
+072634	Wheatland Co. near Hussar
+072641	Vulcan Co. near Arrowwood Herronton and Queenstown
+072642	Vulcan Co. near Vulcan and Ensign
+072643	Vulcan Co. near Carmangay and Champion
+072644	Vulcan Co. near Lomond Travers and Little Bow Reservoirs
+072645	Vulcan Co. near Milo
+072651	Co. of Newell near Bassano
+072652	Co. of Newell near Gem
+072653	Co. of Newell near Brooks Rosemary and Duchess
+072654	Co. of Newell near Scandia and Kinbrook Island Prov. Park
+072660	M.D. of Taber near Enchant
+073110	M.D. of Ranchland
+073120	M.D. of Pincher Creek near Cowley Burmis and Maycroft
+073130	Piikani Reserve
+073140	Municipality of Crowsnest Pass including Coleman and Frank
+073150	M.D. of Pincher Creek near Beauvais Lake Prov. Park
+073160	M.D. of Pincher Creek near Pincher Creek and Twin Butte
+073170	Waterton Lakes Nat. Park and Blood Res. 148A
+073211	M.D. of Willow Creek near Granum and Peigan Timber Limit
+073212	M.D. of Willow Creek near Fort Macleod
+073221	Blood Res. 148including Stand Off
+073222	Cardston Co. near Hill Spring and Glenwood
+073231	Cardston Co. near Magrath and Woolford Prov. Park
+073232	Cardston Co. near Del Bonita and Kimball
+073241	Cardston Co. near Mountain View and Beazer
+073242	Cardston Co. near Cardston and Carway
+073311	Co. of Lethbridge near Coalhurst Nobleford and Barons
+073312	Co. of Lethbridge near Picture Butte and Turin
+073313	Co. of Lethbridge near Coaldale
+073314	City of Lethbridge
+073321	M.D. of Taber near Vauxhall and Hays
+073322	M.D. of Taber near Taber and Barnwell
+073323	M.D. of Taber near Grassy Lake and Hwys 877and 513
+073331	Co. of Warner near Raymond Stirling and New Dayton
+073332	Co. of Warner near Wrentham
+073341	Co. of Warner near Warner
+073342	Co. of Warner near Milk River and Coutts
+073343	Co. of Warner near Writing-On-Stone Prov. Park
+073350	Co. of Forty Mile near Skiff
+074111	Co. of Paintearth near Castor and Fleet
+074112	Co. of Paintearth near Brownfield
+074113	Co. of Paintearth near Coronation and Throne
+074121	S.A. 2near Spondin and Scapa
+074122	S.A. 2near Hanna and Richdale
+074123	S.A. 2near Sunnynook
+074124	S.A. 2near Cessford Wardlow and Pollockville
+074131	S.A. 4near Veteran and Consort
+074132	S.A. 4near Hemaruka Wiste and Monitor Creek
+074133	S.A. 4near Kirriemuir and Compeer
+074141	S.A. 3near Youngstown
+074142	S.A. 3near Big Stone Cappon and Gold Spur
+074143	S.A. 3near Sedalia and New Brigden
+074144	S.A. 3near Oyen and Cereal
+074145	S.A. 3near Sibbald and Esther
+074150	M.D. of Provost near Bodo
+074160	M.D. of Acadia including Acadia Valley
+074211	Cypress Co. near Tide Lake
+074212	Cypress Co. near Suffield and Hwy 879
+074221	S.A. 2near Iddesleigh and Dinosaur Prov. Park
+074222	S.A. 2near Jenner and Atlee
+074223	S.A. 2near Buffalo and Cavendish
+074224	S.A. 2near Bindloss Empress and Social Plains
+074231	Co. of Newell near Patricia
+074232	Co. of Newell near Tilley and Rolling Hills
+074241	Cypress Co. near CFB Suffield
+074242	Cypress Co. near Bowell and Redcliff
+074251	Cypress Co. near Seven Persons
+074252	Cypress Co. near Dunmore and Woolchester
+074253	Cypress Co. near Irvine and Walsh
+074261	Cypress Co. near Bowmanton Schuler and Hilda
+074262	Cypress Co. near McNeill and Sandy Point District Park
+074270	City of Medicine Hat
+074280	Co. of Forty Mile near Bow Island and Whitla
+074310	Co. of Forty Mile near Foremost
+074320	Co. of Forty Mile near Etzikom and Maleb
+074330	Co. of Forty Mile near Orion and Manyberries
+074340	Cypress Co. near Cypress Hills Prov. Park and Cressday
+074350	Co. of Forty Mile near Aden and Kennedy Coulee
+074360	Cypress Co. near Onefour and Wild Horse
+075111	Lac La Biche Co. near Plamondon Hylo and Avenir
+075112	Lac La Biche Co. near Heart Lake
+075113	Lac La Biche Co. near Lac La Biche and Square Lake
+075114	Lac La Biche Co. near Lakeland Prov. Park and Rec. Area
+075115	Lac La Biche Co. near Fork Lake
+075116	Improvement District 349including Cold Lake Air Weapons Range
+075121	Smoky Lake Co. near Buffalo Lake and Kikino Smts
+075122	Smoky Lake Co. near Vilna Saddle Lake and Whitefish Lake
+075131	Co. of St. Paul near Ashmont St. Vincent and St. Lina
+075132	Co. of St. Paul near St. Paul and Lafond
+075133	Co. of St. Paul near Elk Point and St. Edouard
+075134	Co. of St. Paul near Lindbergh and Frog Lake
+075141	M.D. of Bonnyville near La Corey Wolf Lake and Truman
+075142	M.D. of Bonnyville near Glendon and Moose Lake
+075143	M.D. of Bonnyville near Bonnyville Ardmore and Kehewin Res.
+075144	M.D. of Bonnyville near Cold Lake and City of Cold Lake
+075145	M.D. of Bonnyville near Beaverdam
+075146	M.D. of Bonnyville near Fishing Lake Smt
+075211	Co. of Two Hills near Two Hills and Brosseau
+075212	Co. of Two Hills near Myrnam and Derwent
+075221	Co. of Minburn near Innisfree Lavoy and Ranfurly
+075222	Co. of Minburn near Minburn and Mannville
+075230	Beaver Co. near Viking and Kinsella
+075241	Flagstaff Co. near Killam and Sedgewick
+075242	Flagstaff Co. near Lougheed and Hardisty
+075243	Flagstaff Co. near Alliance and Bellshill Lake
+075251	Co. of Vermilion River near Vermilion
+075252	Co. of Vermilion River near Islay and McNabb Sanctuary
+075253	Co. of Vermilion River near Dewberry and Clandonald
+075254	Co. of Vermilion River near Tulliby Lake
+075255	Co. of Vermilion River near Kitscoty and Marwayne
+075256	Co. of Vermilion River near Paradise Valley
+075260	City of Lloydminster (also included in Saskatchewan, 066400)
+075271	M.D. of Wainwright near Irma
+075272	M.D. of Wainwright near Wainwright
+075273	M.D. of Wainwright near Edgerton and Koroluk Landslide
+075274	M.D. of Wainwright near Chauvin Dillberry Lake and Roros
+075281	M.D. of Provost near Hughenden Amisk and Kessler
+075282	M.D. of Provost near Czar Metiskow and Cadogan
+075283	M.D. of Provost near Provost and Hayter
+076110	Woodlands Co. near Fort Assiniboine Timeu and Topland
+076121	Co. of Barrhead near Thunder Lake and Holmes Crossing
+076122	Co. of Barrhead near Neerlandia Bloomsbury and Vega
+076123	Co. of Barrhead near Barrhead and Lac la Nonne
+076130	M.D. of Lesser Slave River near Chisholm and Cross Lake
+076141	Westlock Co. near Larkspur Fawcett and Jarvie
+076142	Westlock Co. near Westlock and Clyde
+076151	Athabasca Co. near Athabasca and Island Lake
+076152	Athabasca Co. near Rochester Colinton and Meanook
+076153	Athabasca Co. near Grassland and Atmore
+076154	Athabasca Co. near Boyle and Caslan
+076160	Thorhild Co. near Newbrook and Long Lake Prov. Park
+076210	Yellowhead Co. near MacKay Wildwood and Evansburg
+076221	Lac Ste. Anne Co. near Mayerthorpe and Sangudo
+076222	Lac Ste. Anne Co. near Cherhill and Glenevis
+076223	Lac Ste. Anne Co. near Onoway and Lac Ste. Anne
+076231	Parkland Co. near Entwistle Fallis and Tomahawk
+076232	Parkland Co. near Wabamun Carvel and Keephills
+076233	Parkland Co. near Spruce Grove and Stony Plain
+076241	Sturgeon Co. near Rivière Qui Barre and Villeneuve
+076242	Sturgeon Co. near Legal and Mearns
+076243	Sturgeon Co. near Morinville Volmer and Big Lake
+076310	Thorhild Co. near Thorhild Opal and Radway
+076321	Sturgeon Co. near Bon Accord Gibbons and Namao
+076322	Sturgeon Co. near Redwater
+076331	Lamont Co. near Bruderheim Lamont and Peno Creek
+076332	Lamont Co. near Andrew and Wostok
+076333	Lamont Co. near Mundare Chipman and Ukrainian Village
+076340	Smoky Lake Co. near Smoky Lake and Waskatenau
+076350	Co. of Two Hills near Willingdon and Hairy Hill
+076360	Fort Saskatchewan and Nrn Strathcona Co.
+076370	Elk Island Nat. Park
+076380	Co. of Minburn near Vegreville Inland and Warwick
+076400	City of Edmonton - St. Albert - Sherwood Park
+076510	Leduc Co. near Warburg Thorsby and Pigeon Lake
+076520	Leduc Co. near Calmar and Devon
+076530	Brazeau Co. near Drayton Valley and Breton
+076540	Co. of Wetaskiwin near Pigeon Lake
+076550	Co. of Wetaskiwin near Alder Flats and Winfield
+076560	Ponoka Co. near Rimbey Bluffton and Hoadley
+076570	Ponoka Co. near Crestomere
+076611	Leduc Co. near Leduc Beaumont and Kavanagh
+076612	Leduc Co. near New Sarepta and Rolly View
+076620	Co. of Wetaskiwin near Wetaskiwin Millet and Hwy 2
+076630	Strathcona Co. near Ardrossan and Cooking Lake
+076641	Beaver Co. near Tofield
+076642	Beaver Co. near Holden and Ryley
+076651	Camrose Co. near Hay Lakes and Miquelon Lake Prov. Park
+076652	Camrose Co. near Camrose and Bittern Lake
+076653	Camrose Co. near New Norway Edberg and Ferintosh
+076654	Camrose Co. near Bawlf and Rosalind
+076660	Flagstaff Co. near Daysland Heisler and Strome
+077111	Co. of Grande Prairie near Beaverlodge Hythe and Demmitt
+077112	Co. of Grande Prairie near Sexsmith and La Glace
+077113	Co. of Grande Prairie near Grande Prairie and Wembley
+077121	M.D. of Greenview near Wapiti and Shuttler Flats Rec. Area
+077122	M.D. of Greenview near O'Brien Prov. Park and Big Mtn Creek
+077123	M.D. of Greenview near DeBolt
+077124	M.D. of Greenview near Little Smoky
+077125	M.D. of Greenview near Sturgeon Lake
+077126	M.D. of Greenview near Valleyview and New Fish Creek
+077210	M.D. of Greenview near Grande Cache Botten and Amundson
+077220	M.D. of Greenview near Kakwa Wildland Prov. Park and Nose Lake
+077230	Yellowhead Co. near William A. Switzer Prov. Park
+077240	Yellowhead Co. near Big Berland and the Wildhay River
+077250	Willmore Wilderness Park
+077260	Yellowhead Co. near Hinton and Obed Lake Prov. Park
+077311	Big Lakes County near Enilda and Joussard
+077312	Big Lakes County near Hilliard's Bay Prov. Park and Big Point
+077313	Big Lakes County near Driftpile Faust and Kinuso
+077321	M.D. of Lesser Slave River near Slave Lake and Saulteaux
+077322	M.D. of Lesser Slave River near Marten Beach
+077323	M.D. of Lesser Slave River near Smith and Fawcett Lake
+077330	M.D. of Opportunity near Calling and Rock Island Lakes
+077340	Athabasca Co. near Wandering River
+077410	M.D. of Greenview near Fox Creek
+077421	Yellowhead Co. near Edson and Sundance Prov. Park
+077422	Yellowhead Co. near Peers and Niton Junction
+077431	Woodlands Co. near Benbow and Windfall
+077432	Woodlands Co. near Carson-Pegasus Prov. Park
+077433	Woodlands Co. near Goose Lake
+077434	Woodlands Co. near Whitecourt and Blue Ridge
+077440	Big Lakes County near Swan Hills
+078111	Mackenzie Co. near Bistcho Lake
+078112	Mackenzie Co. near Rainbow Lake Zama Lake and Chateh
+078113	Mackenzie Co. near Zama City
+078114	Mackenzie Co. near Indian Cabins and Steen River
+078115	Mackenzie Co. near Meander River and Lutose
+078116	Mackenzie Co. near High Level and Bushe River Res.
+078120	Co. of Northern Lights near Paddle Prairie Smt
+078131	Mackenzie Co. near the Caribou Mountains
+078132	Mackenzie Co. near Fort Vermilion
+078133	Mackenzie Co. near John D'or Prairie and Fox Lake
+078134	Mackenzie Co. near La Crête and Buffalo Head Prairie
+078135	Mackenzie Co. near the Tallcree and Wadlin Lake Reserves
+078211	Clear Hills Co. near Chinchaga Wildland Prov. Park
+078212	Clear Hills Co. near Cleardale Worsley and Cherry Point
+078213	Clear Hills Co. near Hines Creek and Eureka River
+078221	Saddle Hills Co. near Bay Tree and Silver Valley
+078222	Saddle Hills Co. near Moonshine Lake Prov. Park
+078223	Saddle Hills Co. near Woking
+078231	M.D. of Spirit River including Spirit River and Rycroft
+078232	M.D. of Fairview including Fairview Whitelaw and Dunvegan
+078233	M.D. of Peace including Grimshaw and Berwyn
+078241	Co. of Northern Lights near Manning and Notikewin Prov. Park
+078242	Co. of Northern Lights near Dixonville and Cardinal Lake
+078251	Birch Hills Co. near Wanham and Peoria
+078252	Birch Hills Co. near Eaglesham and Hwy 740
+078261	Nrn Sunrise Co. near Keppler Creek
+078262	Nrn Sunrise Co. near Peace River Nampa and Three Creeks
+078270	M.D. of Smoky River including Falher McLennan and Guy
+078280	Big Lakes County near High Prairie and Winagami Lake
+078311	Nrn Sunrise Co. near Loon Prairie Res. and Bison Lake
+078312	Nrn Sunrise Co. near Cadotte Lake and Swampy Lake Res.
+078313	Nrn Sunrise Co. near Utikoomak Reserves
+078320	Big Lakes County near Gift Lake and Peavine Smts
+078331	M.D. of Opportunity near Peerless Lake and Trout Lake
+078332	M.D. of Opportunity near Red Earth Creek and Loon Lake
+078333	M.D. of Opportunity near Wabasca-Desmarais and Sandy Lake
+078334	M.D. of Opportunity near Chipewyan Lake
+079111	Wood Buffalo Nat. Park west of the Fifth Meridian
+079112	Wood Buffalo Nat. Park near Hay Camp and Ninishith Hills
+079113	Wood Buffalo Nat. Park near Garden River and Thebacha Trail
+079114	Wood Buffalo Nat. Park near Peace Point and Lake Claire
+079121	R.M. of Wood Buffalo near Namur River and Namur Lake Reserves
+079122	R.M. of Wood Buffalo near Clausen's Landing and Chipewyan 201FG
+079123	R.M. of Wood Buffalo near Old Fort Chipewyan 201and 201ABCDE
+079131	R.M. of Wood Buffalo near Fitzgerald and La Butte Creek
+079132	R.M. of Wood Buffalo near Colin-Cornwall Lakes Prov. Park
+079133	R.M. of Wood Buffalo near Fort Chipewyan and Sand Point
+079210	R.M. of Wood Buffalo near Fort MacKay and Wallace Creek
+079221	R.M. of Wood Buffalo near Fort McMurray and Anzac
+079222	R.M. of Wood Buffalo near Gipsy Lake and Whitemud Falls
+079223	R.M. of Wood Buffalo near Grand Rapids Wildland Prov. Park
+079231	R.M. of Wood Buffalo near Mariana Lake
+079232	R.M. of Wood Buffalo near Stony Mtn Prov. Park and Engstrom Lake
+079241	Lac La Biche Co. near Crow Lake Prov. Park
+079242	Lac La Biche Co. near Wiau Winefred and Grist Lakes
+079243	R.M. of Wood Buffalo near Janvier South and Conklin
+
+British Columbia:
+081100	Haida Gwaii
+081200	North Vancouver Island
+081310	East Vancouver Island - Duncan to Nanaimo
+081320	East Vancouver Island - Nanoose Bay to Fanny Bay
+081330	East Vancouver Island - Courtenay to Campbell River
+081400	West Vancouver Island
+081500	Inland Vancouver Island
+081600	Greater Victoria
+082100	Central Coast - coastal sections
+082200	Central Coast - inland sections
+082310	Sunshine Coast - Gibsons to Earls Cove
+082320	Sunshine Coast - Saltery Bay to Powell River
+082400	Whistler
+082520	Howe Sound (non-specific codes)
+082610	Metro Vancouver - North Shore including West Vancouver and North Vancouver (non-specific codes)
+082714	Metro Vancouver - northeast including Coquitlam and Maple Ridge (non-specific codes)
+082620	Metro Vancouver - central including the City of Vancouver Burnaby and New Westminster
+082713	Metro Vancouver - southeast including Surrey and Langley (non-specific codes)
+082650	Metro Vancouver - southwest including Richmond and Delta
+082712	Fraser Valley - west including Abbotsford (non-specific codes)
+082722	Fraser Valley - central including Chilliwack (non-specific codes)
+082730	Fraser Valley - east including Hope (non-specific codes)
+083410	Manning - Skagit Valley (non-specific codes)
+082800	Southern Gulf Islands
+083110	Fraser Canyon - north including Lillooet
+083300	Nicola (non-specific codes)
+083122	Fraser Canyon - south including Lytton
+083200	South Thompson
+083420	Similkameen
+083510	North Okanagan - including Vernon
+083520	Central Okanagan - including Kelowna
+083530	South Okanagan - including Penticton
+083600	Shuswap
+084100	Arrow Lakes - Slocan Lake
+084200	Boundary
+084300	West Kootenay
+084400	Kootenay Lake
+084510	East Kootenay - south including Cranbrook
+084520	East Kootenay - north including Invermere
+084600	Elk Valley
+085100	North Thompson
+085200	North Columbia
+085300	Kinbasket
+085400	West Columbia
+085500	East Columbia
+085600	Yoho Park - Kootenay Park
+086100	Chilcotin
+086210	Cariboo - north including Quesnel
+086220	Cariboo - south including Williams Lake
+086300	100Mile
+086400	Yellowhead
+087110	Bulkley Valley
+087120	Lakes District
+087200	Williston
+087310	B.C. South Peace River
+087320	B.C. North Peace River
+087410	Stuart - Nechako
+087420	Prince George
+087500	McGregor
+088100	Fort Nelson
+088200	Muncho Lake Park - Stone Mountain Park
+088300	Watson Lake
+089100	North Coast - coastal sections
+089210	North Coast - inland including Terrace
+089220	North Coast - inland including Kitimat
+089230	North Coast - inland including Stewart
+089300	Dease Lake
+089400	Cassiar Mountains
+089500	Teslin
+089600	Atlin
+
+Yukon
+091100	Dawson
+091200	Mayo
+091300	Beaver Creek
+091400	Pelly - Carmacks
+091500	Kluane Lake
+091600	Haines Junction
+091700	Whitehorse
+092100	Teslin - YT
+092200	Cassiar Mountains - YT
+092300	Watson Lake - YT
+092400	Faro - Ross River
+093100	Dempster
+093200	Old Crow
+
+Northwest Territories:
+094200	Ft. Liard Region including Nahanni Butte - Sambaa K'e
+094300	Ft. Simpson Region including Jean Marie River
+094400	Wrigley Region
+094500	Norman Wells - Tulita Region
+094600	Fort Good Hope Region
+094710	Deline
+094720	Colville Lake
+095200	Ft. Providence Region including Kakisa - Chan Lake
+095310	Yellowknife Region
+095320	North Slave Region including Wekweeti - Whati - Behchoko
+095400	Hay River Region including Enterprise
+095500	Thebacha Region including Ft. Smith - Salt River Reserve
+095600	Ft. Resolution Region including Hwy. 6
+095700	Lutsel K'e Region
+096210	Sachs Harbour
+096310	Ulukhaktok
+096420	Paulatuk
+096520	Tuktoyaktuk - East Channel Region
+096530	Aklavik Region
+096540	Inuvik Region
+096550	South Delta Region including Ft. McPherson - Tsiigehtchic
+
+Nunavut:
+097110	Cambridge Bay
+097210	Kugluktuk
+097310	Taloyoak
+097410	Gjoa Haven
+097420	Kugaaruk
+097510	Baker Lake
+097610	Arviat
+097620	Rankin Region including Whale Cove
+097630	Chesterfield Inlet
+097710	Hall Beach
+097720	Igloolik
+097730	Naujaat
+097810	Coral Harbour
+097910	Sanikiluaq
+098110	Arctic Bay
+098120	Pond Inlet
+098130	Clyde River
+098210	Qikiqtarjuaq
+098220	Pangnirtung
+098230	Iqaluit
+098240	Kimmirut
+098250	Kinngait
+099110	Resolute
+099210	Grise Fjord

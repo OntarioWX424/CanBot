@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+```
+<title>About CanBot</title>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        min-height: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #111827;
+        color: #f3f4f6;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* =========================
+       HEADER
+    ========================= */
+
+    header {
+        height: 64px;
+        background: #1f2937;
+        border-bottom: 1px solid #374151;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 28px;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+    }
+
+    .brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 22px;
+        font-weight: 700;
+        color: #ffffff;
+    }
+
+    .brand-icon {
+        width: 36px;
+        height: 36px;
+        border-radius: 10px;
+        background: #ffffff;
+        color: #111827;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 19px;
+    }
+
+    nav {
+        display: flex;
+        gap: 6px;
+    }
+
+    nav a {
+        text-decoration: none;
+        color: #d1d5db;
+        font-size: 14px;
+        font-weight: 600;
+        padding: 9px 13px;
+        border-radius: 8px;
+    }
+
+    nav a:hover {
+        background: #374151;
+        color: #ffffff;
+    }
+
+    /* =========================
+       MAIN
+    ========================= */
+
+    main {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 45px 20px 60px;
+    }
+
+    .hero {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+
+    .hero-icon {
+        width: 72px;
+        height: 72px;
+        margin: 0 auto 18px;
+        border-radius: 20px;
+        background: #ffffff;
+        color: #111827;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 38px;
+    }
+
+    .hero h1 {
+        margin: 0;
+        font-size: 34px;
+        color: #ffffff;
+    }
+
+    .hero p {
+        max-width: 650px;
+        margin: 12px auto 0;
+        color: #9ca3af;
+        font-size: 15px;
+        line-height: 1.6;
+    }
+
+    /* =========================
+       CARDS
+    ========================= */
+
+    .card {
+        background: #1f2937;
+        border: 1px solid #374151;
+        border-radius: 14px;
+        padding: 25px;
+        margin-bottom: 18px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+    }
+
+    .card h2 {
+        margin: 0 0 12px;
+        font-size: 18px;
+        color: #ffffff;
+    }
+
+    .card p {
+        margin: 0;
+        color: #d1d5db;
+        font-size: 14px;
+        line-height: 1.7;
+    }
+
+    /* =========================
+       BETA NOTICE
+    ========================= */
+
+    .beta-notice {
+        background: #172033;
+        border-color: #475569;
+    }
+
+    .beta-notice h2 {
+        color: #ffffff;
+    }
+
+    .beta-notice p {
+        color: #cbd5e1;
+    }
+
+    /* =========================
+       FEATURES
+    ========================= */
+
+    .features {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+        margin-top: 18px;
+    }
+
+    .feature {
+        background: #1f2937;
+        border: 1px solid #374151;
+        border-radius: 12px;
+        padding: 20px;
+    }
+
+    .feature-icon {
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+
+    .feature h3 {
+        margin: 0 0 7px;
+        font-size: 14px;
+        color: #ffffff;
+    }
+
+    .feature p {
+        margin: 0;
+        font-size: 12px;
+        line-height: 1.55;
+        color: #9ca3af;
+    }
+
+    /* =========================
+       DATA CARD
+    ========================= */
+
+    .data-list {
+        margin-top: 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 9px;
+    }
+
+    .data-row {
+        display: flex;
+        justify-content: space-between;
+        gap: 15px;
+        padding: 10px 12px;
+        border-radius: 8px;
+        background: #172033;
+        border: 1px solid #334155;
+        font-size: 12px;
+    }
+
+    .data-label {
+        color: #9ca3af;
+    }
+
+    .data-value {
+        color: #ffffff;
+        font-weight: 700;
+        text-align: right;
+    }
+
+    /* =========================
+       NAVIGATION BUTTON
+    ========================= */
+
+    .back-container {
+        text-align: center;
+        margin-top: 28px;
+    }
+
+    .back-button {
+        display: inline-block;
+        text-decoration: none;
+        background: #ffffff;
+        color: #111827;
+        padding: 11px 18px;
+        border-radius: 9px;
+        font-size: 13px;
+        font-weight: 700;
+    }
+
+    .back-button:hover {
+        background: #e5e7eb;
+    }
+
+    /* =========================
+       FOOTER
+    ========================= */
+
+    footer {
+        text-align: center;
+        padding: 20px;
+        color: #6b7280;
+        font-size: 11px;
+        margin-top: auto;
+    }
+
+    /* =========================
+       MOBILE
+    ========================= */
+
+    @media (max-width: 650px) {
+
+        header {
+            padding: 0 12px;
+        }
+
+        .brand {
+            font-size: 19px;
+        }
+
+        nav a {
+            padding: 8px 6px;
+            font-size: 12px;
+        }
+
+        main {
+            padding: 30px 12px 45px;
+        }
+
+        .hero h1 {
+            font-size: 28px;
+        }
+
+        .features {
+            grid-template-columns: 1fr;
+        }
+
+        .card {
+            padding: 20px;
+        }
+    }
+</style>
+```
+
+</head>
+
+<body>
+
+<header>
+
+```
+<div class="brand">
+    <div class="brand-icon">🍁</div>
+    <span>CanBot</span>
+</div>
+
+<nav>
+    <a href="/index.html">Home</a>
+    <a href="/contact.html">Contact</a>
+</nav>
+```
+
+</header>
+
+<main>
+
+```
+<!-- HERO -->
+
+<section class="hero">
+
+    <div class="hero-icon">
+        🍁
+    </div>
+
+    <h1>
+        About CanBot
+    </h1>
+
+    <p>
+        CanBot is a Canadian weather-alert
+        monitoring system designed to make
+        important weather information simple,
+        accessible, and easy to understand.
+    </p>
+
+</section>
+
+<!-- BETA NOTICE -->
+
+<section class="card beta-notice">
+
+    <h2>
+        ⚠️ CanBot Beta
+    </h2>
+
+    <p>
+        This project is still in Beta and may experience bugs.
+        Please refer to the Contact page to report a bug or a
+        problem with the site.
+    </p>
+
+</section>
+
+<!-- WHAT IS CANBOT -->
+
+<section class="card">
+
+    <h2>
+        What is CanBot?
+    </h2>
+
+    <p>
+        CanBot monitors weather alerts across
+        Canada and organizes them into a simple
+        live-chat style interface. Alerts can be
+        viewed by individual provinces and
+        territories, allowing you to quickly see
+        what is happening in a particular area.
+    </p>
+
+</section>
+
+<!-- FEATURES -->
+
+<section class="card">
+
+    <h2>
+        What CanBot Does
+    </h2>
+
+    <div class="features">
+
+        <div class="feature">
+            <div class="feature-icon">🌦️</div>
+
+            <h3>
+                Weather Alerts
+            </h3>
+
+            <p>
+                Displays active Canadian weather
+                alerts and important information
+                associated with them.
+            </p>
+        </div>
+
+        <div class="feature">
+            <div class="feature-icon">🇨🇦</div>
+
+            <h3>
+                Canadian Coverage
+            </h3>
+
+            <p>
+                CanBot is designed around Canada's
+                provinces and territories.
+            </p>
+        </div>
+
+        <div class="feature">
+            <div class="feature-icon">📍</div>
+
+            <h3>
+                Province Tabs
+            </h3>
+
+            <p>
+                Quickly switch between provinces
+                and territories to view regional
+                alerts.
+            </p>
+        </div>
+
+        <div class="feature">
+            <div class="feature-icon">⏱️</div>
+
+            <h3>
+                Live Alerts
+            </h3>
+
+            <p>
+                Alerts are updated automatically,
+                and expired alerts are removed from
+                the live display.
+            </p>
+        </div>
+
+        <div class="feature">
+            <div class="feature-icon">⚠️</div>
+
+            <h3>
+                Alert Icons
+            </h3>
+
+            <p>
+                Different weather events can be
+                represented with recognizable icons
+                to make alerts easier to identify.
+            </p>
+        </div>
+
+        <div class="feature">
+            <div class="feature-icon">🗺️</div>
+
+            <h3>
+                CLC System
+            </h3>
+
+            <p>
+                CanBot uses Canadian forecast-zone
+                information as part of its geographic
+                alert system.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- CANADIAN COVERAGE -->
+
+<section class="card">
+
+    <h2>
+        Canadian Coverage
+    </h2>
+
+    <p>
+        CanBot's interface is organized around
+        Canada's provinces and territories.
+    </p>
+
+    <div class="data-list">
+
+        <div class="data-row">
+            <span class="data-label">
+                Provinces
+            </span>
+
+            <span class="data-value">
+                10
+            </span>
+        </div>
+
+        <div class="data-row">
+            <span class="data-label">
+                Territories
+            </span>
+
+            <span class="data-value">
+                3
+            </span>
+        </div>
+
+        <div class="data-row">
+            <span class="data-label">
+                Total regions
+            </span>
+
+            <span class="data-value">
+                13
+            </span>
+        </div>
+
+        <div class="data-row">
+            <span class="data-label">
+                Alert system
+            </span>
+
+            <span class="data-value">
+                Canadian weather alerts
+            </span>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- WEATHER INFORMATION -->
+
+<section class="card">
+
+    <h2>
+        Weather Information
+    </h2>
+
+    <p>
+        CanBot is built to retrieve Canadian
+        weather-alert information and present it
+        in a cleaner, easier-to-use interface.
+        Always use official government weather
+        information for critical safety decisions.
+    </p>
+
+</section>
+
+<div class="back-container">
+
+    <a
+        href="/index.html"
+        class="back-button"
+    >
+        ← Back to CanBot
+    </a>
+
+</div>
+```
+
+</main>
+
+<footer>
+    CanBot &bull; Canadian Weather Alert System
+</footer>
+
+</body>
+</html>

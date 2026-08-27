@@ -1,0 +1,25 @@
+{
+  "name": "canbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@turf/turf": "^7.4.0",
+    "adm-zip": "^0.6.0",
+    "axios": "^1.20.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "fast-xml-parser": "^5.11.0",
+    "shapefile": "^0.6.6",
+    "socket.io": "^4.8.3",
+    "xlsx": "^0.18.5",
+    "xml2js": "^0.6.2"
+  }
+}
